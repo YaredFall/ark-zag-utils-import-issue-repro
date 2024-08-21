@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@ark-ui/vue": "^3.9.0",
     "nuxt": "^3.12.4",
     "vue": "latest"
   },
